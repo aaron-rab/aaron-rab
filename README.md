@@ -23,4 +23,4 @@
 
 ## 💻 Tech Stack
 ```text
-TypeScript · React · GraphQL · Node.js · Next.js · MongoDB · C · Java · DDD · GitHub Copilot
+TypeScript · React · Python · GraphQL · Node.js · Next.js · MongoDB · C · Java · DDD · GitHub Copilot
