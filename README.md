@@ -2,7 +2,6 @@
 
 **Computer Science @ Drexel**  
 **Full-Stack Co-op @ Intealth** (Mar–Sep 2025)  
-[linkedin.com/in/aaronrabinowitz](https://linkedin.com/in/aaronrabinowitz)
 
 ---
 
