@@ -7,14 +7,14 @@
 
 ## 🚀 Where I’ve Contributed
 
-### 🔗 **[ShareThrift (Open Source)](https://github.com/simnova/sharethrift)**  
+### **[ShareThrift (Open Source)](https://github.com/simnova/sharethrift)**  
 **MERN + Apollo GraphQL**  
 → Created reservation backend + React and Ant Design UI  
 → Modeled domain with **DDD**  
 
 ---
 
-### 🔗 **[Subletto — In Development](https://github.com/aaron-rab/sublet-project)**  
+### **[Subletto — In Development](https://github.com/aaron-rab/sublet-project)**  
 **Next.js + TypeScript**  
 → **In-progress** subletting platform  
 → Built **JWT auth (NextAuth)**, SSR/SSG, secure API routes  
